@@ -53,7 +53,7 @@ export default {
 
     .status__section {
         width: 100%;
-        padding: 35px 0 20px;
+        padding: 25px 0 20px;
 
         .row {
             flex-direction: column;
